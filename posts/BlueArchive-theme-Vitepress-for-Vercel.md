@@ -2,6 +2,13 @@
 title:  如何在Vercel部署一个自己的蔚蓝档案Blog
 date: 2024.6.23
 tags: [教程, 建站,蔚蓝档案,Vercel,Vitepress]
+head:
+  - - meta
+    - name: description
+      content: 如何在Vercel部署一个自己的蔚蓝档案Blog
+  - - meta
+    - name: keywords
+      content: BlueArchive Vercel Blog 蔚蓝档案 教程
 ---
 
 这篇文章将会教你如何在Vercel部署一个属于自己蔚蓝档案主题的Blog
