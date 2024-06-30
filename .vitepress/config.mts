@@ -33,8 +33,8 @@ export default defineConfigWithTheme<ThemeConfig>({
   sitemap: {
     hostname: 'https://cxblog.fun',
   },
-  title: "Sensei's 部落格",
-  description: "Sensei's 部落格",
+  title: "Cxy's Blog",
+  description: "Cxy's Blog",
   themeConfig: {
     // navBar
     menuList: [
